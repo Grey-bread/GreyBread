@@ -2,8 +2,6 @@
 萌新的个人存储库
 ### Hi there👋, I'm GreyBread. A College Student from China.
 
----
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset= "https://i1.hdslb.com/bfs/archive/a95630008057990c9a2b55a49a3861480d79a777.jpg">
   <source media="(prefers-color-scheme: light)" srcset= "https://i1.hdslb.com/bfs/archive/a95630008057990c9a2b55a49a3861480d79a777.jpg">
@@ -24,10 +22,11 @@
 
 </details>
 I am currently studying and welcome everyone to communicate with me
+
 ---
 
 ## Social interaction
-WeChat ：W13643537651
-Email ：2673570544@qq.com
+-**WeChat** ：W13643537651
+-**Email** ：2673570544@qq.com
 
 
