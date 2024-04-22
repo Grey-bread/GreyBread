@@ -1,13 +1,13 @@
 # GreyBread
 萌新的个人存储库
-### Hi there👋,I'm GreyBread.A College Student.
+### Hi there👋, I'm GreyBread. A College Student.
 
 ---
 ## 个人资料自述
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="E:\米雪儿.jpg">
-  <source media="(prefers-color-scheme: light)" srcset="E:\米雪儿.jpg">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="E:\米雪儿.jpg">
+  <source media="(prefers-color-scheme: dark)" srcset= "[E:\米雪儿.jpg](https://image.baidu.com/search/detail?ct=503316480&z=undefined&tn=baiduimagedetail&ipn=d&word=%E5%8D%A1%E6%8B%89%E6%AF%94%E4%B8%98%E7%B1%B3%E9%9B%AA%E5%84%BF&step_word=&lid=9901897607308441643&ie=utf-8&in=&cl=2&lm=-1&st=undefined&hd=undefined&latest=undefined&copyright=undefined&cs=2881311310,3952875635&os=228721506,1793403676&simid=61001085,782965454&pn=0&rn=1&di=7348476013078118401&ln=440&fr=&fmq=1713781144055_R&fm=&ic=undefined&s=undefined&se=&sme=&tab=0&width=undefined&height=undefined&face=undefined&is=0,0&istype=0&ist=&jit=&bdtype=0&spn=0&pi=0&gsm=1e&objurl=https%3A%2F%2Fi1.hdslb.com%2Fbfs%2Farchive%2Fa95630008057990c9a2b55a49a3861480d79a777.jpg&rpstart=0&rpnum=0&adpicid=0&nojc=undefined&dyTabStr=MCwzLDIsMSw2LDQsNSw3LDgsOQ%3D%3D)">
+  <source media="(prefers-color-scheme: light)" srcset= "[E:\米雪儿.jpg](https://image.baidu.com/search/detail?ct=503316480&z=undefined&tn=baiduimagedetail&ipn=d&word=%E5%8D%A1%E6%8B%89%E6%AF%94%E4%B8%98%E7%B1%B3%E9%9B%AA%E5%84%BF&step_word=&lid=9901897607308441643&ie=utf-8&in=&cl=2&lm=-1&st=undefined&hd=undefined&latest=undefined&copyright=undefined&cs=2881311310,3952875635&os=228721506,1793403676&simid=61001085,782965454&pn=0&rn=1&di=7348476013078118401&ln=440&fr=&fmq=1713781144055_R&fm=&ic=undefined&s=undefined&se=&sme=&tab=0&width=undefined&height=undefined&face=undefined&is=0,0&istype=0&ist=&jit=&bdtype=0&spn=0&pi=0&gsm=1e&objurl=https%3A%2F%2Fi1.hdslb.com%2Fbfs%2Farchive%2Fa95630008057990c9a2b55a49a3861480d79a777.jpg&rpstart=0&rpnum=0&adpicid=0&nojc=undefined&dyTabStr=MCwzLDIsMSw2LDQsNSw3LDgsOQ%3D%3D)">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src= "[E:\米雪儿.jpg](https://image.baidu.com/search/detail?ct=503316480&z=undefined&tn=baiduimagedetail&ipn=d&word=%E5%8D%A1%E6%8B%89%E6%AF%94%E4%B8%98%E7%B1%B3%E9%9B%AA%E5%84%BF&step_word=&lid=9901897607308441643&ie=utf-8&in=&cl=2&lm=-1&st=undefined&hd=undefined&latest=undefined&copyright=undefined&cs=2881311310,3952875635&os=228721506,1793403676&simid=61001085,782965454&pn=0&rn=1&di=7348476013078118401&ln=440&fr=&fmq=1713781144055_R&fm=&ic=undefined&s=undefined&se=&sme=&tab=0&width=undefined&height=undefined&face=undefined&is=0,0&istype=0&ist=&jit=&bdtype=0&spn=0&pi=0&gsm=1e&objurl=https%3A%2F%2Fi1.hdslb.com%2Fbfs%2Farchive%2Fa95630008057990c9a2b55a49a3861480d79a777.jpg&rpstart=0&rpnum=0&adpicid=0&nojc=undefined&dyTabStr=MCwzLDIsMSw2LDQsNSw3LDgsOQ%3D%3D)">
 </picture>
 
 ---
