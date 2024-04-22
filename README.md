@@ -8,7 +8,6 @@
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src= "https://i1.hdslb.com/bfs/archive/a95630008057990c9a2b55a49a3861480d79a777.jpg">
 </picture>
 
----
 ## About me
 
 <details>
@@ -23,7 +22,6 @@
 </details>
 I am currently studying and welcome everyone to communicate with me
 
----
 
 ## Social interaction
 -**WeChat** ：W13643537651
