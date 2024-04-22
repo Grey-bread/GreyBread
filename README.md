@@ -5,9 +5,9 @@
 ---
 ## 个人资料自述
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset=""E:\米雪儿.jpg"">
-  <source media="(prefers-color-scheme: light)" srcset=""E:\米雪儿.jpg"">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src=""E:\米雪儿.jpg"">
+  <source media="(prefers-color-scheme: dark)" srcset="E:\米雪儿.jpg">
+  <source media="(prefers-color-scheme: light)" srcset="E:\米雪儿.jpg">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="E:\米雪儿.jpg">
 </picture>
 
 ---
